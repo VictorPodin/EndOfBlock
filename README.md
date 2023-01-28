@@ -10,7 +10,7 @@
 Затем вывод итогового массива
 
 ## **Блок Схема**
-![тут должна быть блок-схема алгоритма](/blob/f52178d79d9efd1324f5a1efbd1cfce3d2c4cd4f/algo.JPG)
+![тут должна быть блок-схема алгоритма](https://github.com/VictorPodin/EndOfBlock/blob/f52178d79d9efd1324f5a1efbd1cfce3d2c4cd4f/algo.JPG)
 
 Цикл FOREACH заменен элементом для цикла FOR 
 Слева идет тело цикла, справа выход.
